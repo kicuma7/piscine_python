@@ -18,6 +18,3 @@ To get started with the Python Piscine, clone the repository to your local machi
 
 ```bash
 git clone https://github.com/kicuma7/piscine_python.git
-
-
-
